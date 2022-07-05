@@ -73,10 +73,6 @@ body {
 
 }
 
-.fresh-food3 {
-    /* margin: 20px; */
-}
-
 .boss3 {
     text-align: center;
 }
@@ -128,8 +124,6 @@ body {
     border-radius: 40px;
     box-shadow: 5px 5px 20px 2px gray;
 }
-
-.social-container h1 {}
 
 #like {
     text-align: left;
