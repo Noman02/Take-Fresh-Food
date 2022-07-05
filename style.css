@@ -119,6 +119,8 @@ body {
 }
 
 .social-container {
+    display: flex;
+    justify-content: space-evenly;
     height: 250px;
     width: 1000px;
     margin-left: 14%;
@@ -127,7 +129,7 @@ body {
     box-shadow: 5px 5px 20px 2px gray;
 }
 
-
+.social-container h1 {}
 
 #like {
     text-align: left;
