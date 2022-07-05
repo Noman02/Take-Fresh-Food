@@ -1,0 +1,163 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.fresh-food1 {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.fresh-food1 img {
+    width: 700px;
+    /* height: 600px; */
+}
+
+.boss1 {
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+.color-deeppink {
+    color: deeppink;
+}
+
+.para1 {
+    margin-left: 30px;
+}
+
+.Order-button {
+    background-color: #f7b42c;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+    color: white;
+    text-decoration: none;
+    border-radius: 40px;
+    margin-left: 30px;
+    padding: 15px;
+    font-weight: 500;
+}
+
+.fresh-food2 {
+    display: flex;
+    background-image: url(images/7.png)
+}
+
+.fresh-food2 img {
+    width: 350px;
+    margin-left: 40%;
+
+}
+
+.boss2 {
+    margin-left: 40%;
+    font-size: 50px;
+    opacity: .5;
+}
+
+.para2 {
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-bottom: 50px;
+}
+
+.contact-button {
+    margin-left: 40%;
+    background-color: #f7b42c;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+    border-radius: 40px;
+    text-decoration: none;
+
+}
+
+.fresh-food3 {
+    /* margin: 20px; */
+}
+
+.boss3 {
+    text-align: center;
+}
+
+.para3 {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.both-div {
+    display: flex;
+    /* margin-left: 20px; */
+    width: 100vw;
+    height: 90vh;
+
+}
+
+.div1 {
+    margin: 50px;
+    box-shadow: 5px 10px 10px 2px gray;
+    border-radius: 40px;
+}
+
+#food {
+    width: 85%;
+    height: 50%;
+    margin: 30px;
+    border-radius: 30px;
+
+}
+
+.boss4 {
+    margin-left: 10%;
+    font-weight: 600
+}
+
+.para4 {
+    margin-left: 10%;
+}
+
+.social-container {
+    height: 250px;
+    width: 1000px;
+    margin-left: 14%;
+    margin-bottom: 5%;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px 2px gray;
+}
+
+
+
+#like {
+    text-align: left;
+
+}
+
+#view {
+    text-align: center;
+}
+
+#follower {
+    text-align: right;
+}
+
+.last-one {
+    height: 300px;
+    width: 100%;
+    background: rgb(3, 3, 47);
+}
+
+#eat {
+    color: #fc575e
+}
+
+#eat0 {
+    text-align: center;
+    color: #fff;
+}
+
+#footer {
+    text-align: center;
+    color: #fff;
+}
